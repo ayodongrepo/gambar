@@ -1,0 +1,365 @@
+// [class~=popMe]:before {
+    display: block;
+}
+
+[class~=popMe] p:before {
+    content: "Congrats!";
+}
+
+[class~=popMe] p:before {
+    font-size: .135416667in;
+}
+
+[class~=popMe-container] {
+    transition: all 500ms ease;
+}
+
+[class~=popMe-container] {
+    transition-property: top,right,bottom,left,opacity;
+}
+
+[class~=popMe-container] [class~=action] {
+    background: inherit;
+}
+
+[class~=popMe-container] {
+    font-family: Roboto,sans-serif;
+}
+
+[class~=popMe-container] [class~=action] {
+    display: inline-block;
+}
+
+[class~=popMe-container] [class~=action] {
+    font-size: inherit;
+}
+
+[class~=popMe-container] [class~=action],[class~=popMe] p:before {
+    text-transform: uppercase;
+}
+
+[class~=popMe]:before {
+    width: 3.125pc;
+}
+
+[class~=popMe-container] {
+    font-size: .875pc;
+}
+
+[class~=popMe] p:before {
+    font-weight: 700;
+}
+
+[class~=popMe-container] {
+    min-height: 10.5pt;
+}
+
+[class~=popMe] p:before {
+    text-indent: 15pt;
+}
+
+[class~=popMe-container] [class~=action] {
+    color: #4caf50;
+}
+
+[class~=popMe] p:before {
+    background-image: url("/js/donewd.svg");
+}
+
+[class~=popMe]:before,[class~=popMe] p:before {
+    background-repeat: no-repeat;
+}
+
+[class~=popMe-container] {
+    position: fixed;
+}
+
+[class~=popMe]:before {
+    height: .520833333in;
+}
+
+[class~=popMe-container] {
+    display: flex;
+}
+
+[class~=popMe]:before {
+    position: absolute;
+}
+
+[class~=popMe] p:before {
+    background-position: left 3px top 30%;
+}
+
+[class~=popMe] p:before {
+    margin-top: -.625pc;
+}
+
+[class~=popMe-container] {
+    justify-content: space-between;
+}
+
+[class~=popMe]:before {
+    background-image: url("/js/logoo.png");
+}
+
+[class~=popMe-container] {
+    align-items: center;
+}
+
+[class~=popMe] p:before {
+    height: 15pt;
+}
+
+[class~=popMe] p:before {
+    line-height: 7.5pt;
+}
+
+[class~=popMe-container] [class~=action] {
+    margin-left: 18pt;
+}
+
+[class~=popMe-container] [class~=action] {
+    margin-bottom: 0;
+}
+
+[class~=popMe]:before {
+    background-size: cover;
+}
+
+[class~=popMe-container] [class~=action],[class~=popMe]:before {
+    margin-right: 0;
+}
+
+[class~=popMe-container] [class~=action] {
+    margin-top: 0;
+}
+
+[class~=popMe]:before {
+    border-radius: .625pc;
+}
+
+[class~=popMe] p:before {
+    width: 100%;
+}
+
+[class~=popMe-container] {
+    line-height: 1.375pc;
+}
+
+[class~=popMe-container] {
+    padding-left: .9375in;
+}
+
+[class~=popMe-container] {
+    padding-bottom: 15pt;
+}
+
+[class~=popMe]:before {
+    background-position: left;
+}
+
+[class~=popMe-container] [class~=action] {
+    padding-left: 0;
+}
+
+[class~=popMe-container] {
+    padding-right: 24px;
+}
+
+[class~=popMe] p,[class~=popMe-container] {
+    padding-top: 1.25pc;
+}
+
+[class~=popMe]:before {
+    margin-left: -4.0625pc;
+}
+
+[class~=popMe]:before {
+    margin-bottom: 11.25pt;
+}
+
+[class~=popMe] p:before,[class~=popMe-container] [class~=action] {
+    padding-bottom: 0;
+}
+
+[class~=popMe-container] {
+    bottom: -6.25pc;
+}
+
+[class~=popMe-container] {
+    top: -100px;
+}
+
+[class~=popMe-container] {
+    opacity: 0;
+}
+
+[class~=popMe-container] [class~=action],[class~=popMe] p,[class~=popMe] p:before {
+    padding-right: 0;
+}
+
+[class~=popMe]:before {
+    margin-top: .15625in;
+}
+
+[class~=popMe]:before {
+    content: " ";
+}
+
+[class~=popMe-container] [class~=action] {
+    padding-top: 0;
+}
+
+[class~=popMe-container] {
+    z-index: 9999;
+}
+
+[class~=popMe-container] {
+    box-shadow: rgba(17,17,26,.1) 0 .25pc 16px,rgba(17,17,26,.05) 0 .5pc 24pt;
+}
+
+[class~=popMe] p {
+    display: block;
+}
+
+[class~=popMe-container] {
+    border-radius: 6.25pc;
+}
+
+[class~=popMe] p {
+    padding-left: 172.5pt;
+}
+
+[class~=popMe-container] {
+    overflow: hidden;
+}
+
+[class~=popMe] p,[class~=popMe] p:before {
+    float: left;
+}
+
+[class~=popMe] p:before {
+    padding-left: .052083333in;
+}
+
+[class~=popMe] p {
+    padding-bottom: 15px;
+}
+
+[class~=popMe] p {
+    height: 35px;
+}
+
+[class~=popMe] p:before {
+    padding-top: .104166667in;
+}
+
+[class~=popMe] p {
+    line-height: 30px !important;
+}
+
+[class~=popMe] p {
+    font-size: .1875in;
+}
+
+[class~=popMe] p {
+    font-weight: 300;
+}
+
+[class~=popMe-container] [class~=action] {
+    min-width: min-content;
+}
+
+[class~=popMe-container] [class~=action] {
+    cursor: pointer;
+}
+
+@media (min-width: 640px) {
+    [class~=popMe-container] {
+        min-width:18pc;
+    }
+
+    [class~=popMe-container] {
+        max-width: 27.5pc;
+    }
+
+    [class~=popMe-container] {
+        display: inline-flex;
+    }
+
+    [class~=popMe-container] {
+        margin-left: 18pt;
+    }
+
+    [class~=popMe-container] {
+        margin-bottom: 18pt;
+    }
+
+    [class~=popMe-container] {
+        margin-right: 18pt;
+    }
+
+    [class~=popMe-container] {
+        margin-top: 18pt;
+    }
+}
+
+@media (max-width: 640px) {
+    .popMe-container {
+        left:0;
+    }
+
+    .popMe-container {
+        right: 0;
+    }
+
+    .popMe-container {
+        width: 100%;
+    }
+}
+
+[class~=popMe-pos][class~=bottom-left],[class~=popMe-pos][class~=bottom-right],.popMe-pos.bottom-center {
+    top: auto !important;
+}
+
+[class~=popMe-pos][class~=bottom-left],.popMe-pos.bottom-center,[class~=popMe-pos][class~=bottom-right] {
+    bottom: 0;
+}
+
+.popMe-pos.bottom-center {
+    left: 50%;
+}
+
+[class~=popMe-pos][class~=top-center],.popMe-pos.bottom-center {
+    transform: translate(-50%,0);
+}
+
+[class~=popMe-pos][class~=bottom-left],[class~=popMe-pos][class~=top-left] {
+    left: 0;
+}
+
+[class~=popMe-pos][class~=top-right],[class~=popMe-pos][class~=bottom-right] {
+    right: 0;
+}
+
+[class~=popMe-pos][class~=top-center],[class~=popMe-pos][class~=top-right],[class~=popMe-pos][class~=top-left] {
+    bottom: auto !important;
+}
+
+[class~=popMe-pos][class~=top-right],[class~=popMe-pos][class~=top-left],[class~=popMe-pos][class~=top-center] {
+    top: 0;
+}
+
+[class~=popMe-pos][class~=top-center] {
+    left: 50%;
+}
+
+@media (max-width: 640px) {
+    .popMe-pos.top-center,[class~=popMe-pos][class~=bottom-center] {
+        left:0;
+    }
+
+    .popMe-pos.top-center,[class~=popMe-pos][class~=bottom-center] {
+        transform: none;
+    }
+}
